@@ -1,0 +1,15 @@
+
+u
+java:S1104"SMake SUCCESS a static final constant or non-public and provide accessors if needed.(şøÙæûÿÿÿÿ8Â…ˆãè1
+t
+java:S1104"RMake FAILED a static final constant or non-public and provide accessors if needed.(šİĞøÿÿÿÿ8Ã…ˆãè1
+O
+java:S1444"-Make this "public static SUCCESS" field final(şøÙæûÿÿÿÿ8Ã…ˆãè1
+N
+java:S1444",Make this "public static FAILED" field final(šİĞøÿÿÿÿ8Ã…ˆãè1
+t
+java:S3008"RRename this field "SUCCESS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şøÙæûÿÿÿÿ8Ä…ˆãè1
+s
+java:S3008"QRename this field "FAILED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šİĞøÿÿÿÿ8Ä…ˆãè1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(á¸Ì8Ç…ˆãè1
